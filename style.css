@@ -170,8 +170,3 @@ span{
 .box-img{
     height: 100px;
 }
-
-.box1{
-    background-image: url("assets/box1_image.jpg");
-    background-size: cover;
-}
